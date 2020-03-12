@@ -71,3 +71,4 @@ if __name__ == "__main__":
     greet_user()
     master_list = ["Title", "Genre"]
     master_list = get_movie(master_list)
+    print("happy birthday")
