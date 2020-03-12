@@ -38,3 +38,5 @@ if __name__ == "__main__":
     dict_to_list()
     print(genres_list_count)
     
+    print("Happy birtday")
+    
